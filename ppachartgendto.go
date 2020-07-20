@@ -1,4 +1,4 @@
-package dto
+package ppachartgendto
 
 type DataItemDto struct {
 	Name       string  `json:"name"`
